@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:899846386019:android:17b11839a1b44740162356",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.example.notes_app"
         }
